@@ -3,7 +3,7 @@
 Here in this Project i introduce my selfbot for DC which uhh supports plugins, make some of your own or ask a friend to maybe? lol
 
 # Prerequisites 
-## Linux (Termux)
+## Linux (& Termux too)
 > Install python if not already by `pkg install python`
 
 > Install following minimal pip pkgs by `pip install discord discord.py-self`
